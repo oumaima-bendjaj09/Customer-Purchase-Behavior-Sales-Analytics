@@ -16,14 +16,7 @@ This project analyzes customer shopping behavior using **Python** for data prepr
 
 Understanding how and why customers make purchasing decisions is key to improving marketing strategies, product positioning and customer retention. This project tackles challenges such as missing data, feature extraction and trend identification within transactional datasets, to support data-driven decision-making.
 
-## 🔄 Project Workflow
 
-The goal is to simulate a corporate-grade analytics workflow and show how raw data can be turned into strategic business intelligence through four stages:
-
-- ✅ **Data Preparation, Modeling & EDA (Python):** clean and transform the raw dataset so it is ready for analysis.
-- ✅ **Data Analysis (SQL):** simulate business transactions and run queries to uncover insights on customer segments, loyalty and purchase drivers.
-- ✅ **Visualization & Insights (Power BI):** build an interactive dashboard that highlights key patterns and trends, helping stakeholders make data-driven decisions.
-- ✅ **Report & Presentation:** write a clear report summarizing key findings and business recommendations, and prepare a presentation that communicates them visually to stakeholders.
 
 ## 🧰 Tools & Technologies
 
